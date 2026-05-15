@@ -1,2 +1,7 @@
-# demo-natale-propiedades
-Demo web para NATALE Propiedades — diseñada por eterlab.
+# NATALE Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
